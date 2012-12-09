@@ -49,3 +49,12 @@ as part of the fundus bundle..
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.2-2
++ Revision: 813552
+- Update to latest release.
+- Import texlive-fundus-sueterlin
+- Import texlive-fundus-sueterlin
+

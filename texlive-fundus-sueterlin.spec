@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-fundus-sueterlin
 Version:	1.2
-Release:	7
+Release:	8
 Summary:	Sutterlin
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fundus/suetterl

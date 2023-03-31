@@ -1,6 +1,6 @@
 Name:		texlive-fundus-sueterlin
 Version:	26030
-Release:	1
+Release:	2
 Summary:	Sutterlin
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fundus/suetterl

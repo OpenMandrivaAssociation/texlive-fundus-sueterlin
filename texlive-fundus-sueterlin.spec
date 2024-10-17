@@ -3,7 +3,7 @@ Version:	26030
 Release:	2
 Summary:	Sutterlin
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fundus/suetterl
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fundus/suetterl
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fundus-sueterlin.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fundus-sueterlin.doc.r%{version}.tar.xz
